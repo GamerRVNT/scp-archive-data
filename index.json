@@ -4,9 +4,21 @@
     "name": "Site 220",
     "items": [
       {
-        "type": "json",
-        "name": "scp_1730.json",
-        "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp-1730-testlog"
+        "type": "folder",
+        "name": "SCP-860",
+        "items": [
+            {
+                "type": "json",
+                "name": "SCP-860-Log-1",
+                "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp_860_log1.json"
+
+            },
+            {
+                "type": "json",
+                "name": "SCP-860-Log-1",
+                "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp_860_log2.json"
+            }
+        ]
       }
     ]
   }
