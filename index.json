@@ -15,7 +15,7 @@
             },
             {
                 "type": "json",
-                "name": "SCP-860-Log-1",
+                "name": "SCP-860-Log-2",
                 "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp_860_log2.json"
             }
         ]
