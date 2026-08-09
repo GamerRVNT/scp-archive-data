@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-08-09T20:26:45.695Z",
+  "itemNum": "SCP-860 Exploration Log 1 | 08/08/2026",
+  "clearanceLevel": "Level 1 / Unrestricted",
+  "personnelList": [
+    {
+      "role": "Lead Researcher",
+      "name": "GamerBoyED0"
+    },
+    {
+      "role": "Escort Personnel",
+      "name": "Marco (ISD)"
+    },
+    {
+      "role": "D-Class Subject",
+      "name": "Venti"
+    }
+  ],
+  "documentSections": [
+    {
+      "id": "sec-3",
+      "isCollapsible": false,
+      "title": "Exploration log 1",
+      "content": "After debriefing the class d, fitting them with radio equipment they made entry into 860. as expected the class d was met with the foggy forest, class d was instructed to follow the path. After approximately 30 seconds of walking subject was met with a fork on the path, instructed to go left the class d started slightly sobbing for a bit (Due to the subject wanting to go right) until regaining composure and proceeding, walking for another 25 seconds leads to yet another fork in the path, for the sake of exploration i requested the subject should keep taking left turns. Class D proceeded to walk on the path for a few minutes, subject reported no suspicious activity"
+    },
+    {
+      "id": "sec-4",
+      "isCollapsible": false,
+      "title": "Exploration log 1 / Initial encounter",
+      "content": "After around a minute of walking class d reports something in the distance, “On all fours\" , few  seconds later subject reports the creature running towards them, Subject reports the creature having a Cat like form. After a few seconds of panic and the subject fleeing the creature all radio communications are lost. \n\nClass D - Deceased (Unconfirmed)"
+    }
+  ],
+  "mediaList": []
+}
