@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-08-09T15:47:03.615Z",
+  "itemNum": "SCP-1730 Inspection",
+  "clearanceLevel": "Level 4 / Secret",
+  "personnelList": [
+    {
+      "role": "Lead Researcher",
+      "name": "Dr. Hadley (340)"
+    },
+    {
+      "role": "Supervisor",
+      "name": "Director Emerson"
+    }
+  ],
+  "documentSections": [
+    {
+      "id": "sec-1",
+      "isCollapsible": false,
+      "title": "Incident Briefing",
+      "content": "Below is the archived correspondence log regarding Site-13 transfer requests. Click cross-reference links like <a href=\"#sec-2-0\" class=\"scp-crossref\" onclick=\"triggerHighlight('sec-2-0')\">Addendum 1730.5 Transcript 1</a> to directly auto-open and view the attached transcript file."
+    },
+    {
+      "id": "sec-2",
+      "isCollapsible": true,
+      "title": "Addendum 1730.5: Collected Data Logs",
+      "items": [
+        {
+          "id": "sec-2-0",
+          "openLabel": "Open Transcript 1: Transfer Request",
+          "closeLabel": "Close Transcript 1: Transfer Request",
+          "content": "Dear Dr. Hadley (340),\n\nWe have received your communication...",
+          "isOpen": true
+        },
+        {
+          "id": "sec-2-1",
+          "openLabel": "Open Transcript 2: Exploration Audio Log",
+          "closeLabel": "Close Transcript 2: Exploration Audio Log",
+          "content": "Audio Log Transcript - MTF Zeta-9 (\"Mole Rats\")\n[BEGIN LOG]\nZeta-1: Base, audio check. We are entering lower subterranean Vault 4.",
+          "isOpen": false
+        }
+      ]
+    }
+  ],
+  "mediaList": []
+}
