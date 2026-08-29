@@ -7,27 +7,29 @@
         "type": "folder",
         "name": "SCP-860",
         "items": [
-            {
-                "type": "json",
-                "name": "SCP-860-Log-1",
-                "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp_860_log1.json"
-
-            },
-            {
-                "type": "json",
-                "name": "SCP-860-Log-2",
-                "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp_860_log2.json"
-            }
+          {
+            "type": "json",
+            "name": "SCP-860-Log-1",
+            "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp_860_log1.json"
+          },
+          {
+            "type": "json",
+            "name": "SCP-860-Log-2",
+            "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp_860_log2.json"
+          }
         ]
       }
     ]
+  },
+  {
     "type": "folder",
     "name": "Site 147",
-    "items":[
+    "items": [
       {
-        "type": "json"
-        "name": "SCP-1139 X SCP-714"
+        "type": "json",
+        "name": "SCP-1139 X SCP-714",
         "url": "https://raw.githubusercontent.com/GamerRVNT/scp-archive-data/refs/heads/main/scp1139x714_log1.json"
+      }
     ]
   }
 ]
