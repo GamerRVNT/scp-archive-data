@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-08-29T20:41:40.078Z",
+  "itemNum": "SCP-1139 / SCP-714 Cross Testing [29/08/2026]",
+  "clearanceLevel": "Level 1 / Unrestricted",
+  "personnelList": [
+    {
+      "role": "Lead Researcher",
+      "name": "@GamerBoyED0"
+    },
+    {
+      "role": "D-Class Subject",
+      "name": "Venti"
+    },
+    {
+      "role": "Security Personnel",
+      "name": "HenryTheTank"
+    }
+  ],
+  "documentSections": [
+    {
+      "id": "sec-1",
+      "isCollapsible": false,
+      "title": "scp-1139",
+      "content": "SCP-1139 is metallic grey rectangular pillar, roughly twenty (20) centimeters high and five (5) centimeters square at its base.\n\nUpon application of electricity a direct current, SCP-1139  affects all individuals within a given radius through unknown means. Any person within the radius of effect begins speaking and writing a new language, though they apparently believe they are speaking their native tongue."
+    },
+    {
+      "id": "sec-2",
+      "isCollapsible": false,
+      "title": "SCP-714",
+      "content": "SCP-714 is seemingly nothing more than a green jade ring, SCP-714 has been shown to be able to expand and contract to perfectly fit the finger of anyone who touches it, though this is the least important of its properties. SCP-714 only changes size when touched by a 'new' subject.\n\nSCP-714 has several major effects when worn, that include; Exhaustion, Compulsion to Rest/Sleep, Slowed Reactions, Sluggish Movement, Reduced Mental Capacity.\n\nAs a dubious \"benefit\" of seemingly reduced mental capacity, wearers of SCP-714 show abnormally high resilience to memetic and mental influences, particularly commands or immediate effects. Weaker memetic influences may be totally nullified by this.\n\nJust as their minds block memetic influences, the bodies of SCP-714 wearers slows and nullifies the effects of various chemicals on the body. Fully poisonous or toxic substances are generally not hindered, but those that specifically impede or enhance neural and/or nervous functions in some way (such as stimulants or sedatives) have very diminished effects. With the removal of SCP-714, this nullification effect expires instantly. Wearers may still suffer from standard overdose effects whilst wearing SCP-714."
+    },
+    {
+      "id": "sec-3",
+      "isCollapsible": false,
+      "title": "scp-1139 / SCP-714 Cross test",
+      "content": "Test objective: Determine if SCP-714 has any effect on SCP-1139.\n\nHypothesis: SCP-714 could potentially nullify the effects of SCP-1139 "
+    },
+    {
+      "id": "sec-6",
+      "isCollapsible": false,
+      "title": "Test LOG 1",
+      "content": "When reaching SCP-714 containment chamber Subject was instructed to equip SCP-714, Subject equipped SCP-714 and expressed immediate tiredness [as expected].\n\nReaching SCP-1139 Containment chamber Subject was instructed to remember the following phrase \"The Foundation is great.\" and say it out loud when instructed. \n\nSubject entered SCP-1139 containment chamber wearing SCP-714 and was instructed to stand next to SCP-1139.\n\nFirst SCP-1139 was powered by a alternating electrical current, Subject was then instructed to say the phrase memorized before, Subject had no language altercations. \n\nSecondly SCP-1139 was powered by a direct electrical current, Subject was then instructed to say the phrase memorized before, Subject still had no language altercations. \n\nFinal verdict: SCP-714 is capable of fully negating the effects of SCP-1139."
+    }
+  ],
+  "mediaList": []
+}
